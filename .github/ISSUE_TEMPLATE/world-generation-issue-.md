@@ -2,21 +2,21 @@
 name: World Generation Issue.
 about: Report an Issue with World Generation.
 title: "[WORLD]"
-labels: world gen
+labels: ''
 assignees: ''
 
 ---
 
-Dimension:
+**Dimension:**
 <Dimension>
-Coordinates:
+**Coordinates:**
 <X> <Y> <Z>
-Actual Behavior:
+**Actual Behavior:**
 <Short Answer>
-Expected Behavior:
+**Expected Behavior:**
 <Short Answer>
-Recommended Fix:
+**Recommended Fix:**
 <Short Answer>
 
-Screenshots:
+**Screenshots (Optional):**
 <Image>
